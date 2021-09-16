@@ -10,7 +10,7 @@ const MAPBOX_ACCESS_TOKEN =
 
 // Viewport settings
 const INITIAL_VIEW_STATE = {
-  longitude: -122.41669,
+  longitude: -122.41668,
   latitude: 37.7853,
   zoom: 13,
   pitch: 0,
